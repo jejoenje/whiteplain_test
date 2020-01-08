@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1644844273",
+    "hash" : "0",
     "id" : "274D70AD",
-    "lastKnownWriteTime" : 1578519052,
-    "last_content_update" : 1578519052,
+    "lastKnownWriteTime" : 1578519395,
+    "last_content_update" : 1578519395976,
     "path" : "~/Documents/docs/000_R/whiteplain_test/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "0,11",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
